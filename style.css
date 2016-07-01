@@ -330,7 +330,21 @@ border-radius: 2px;
 
 .google
 {
-	width: 90px;
-	margin-left: 15px;
+	width: 150px;
+	margin-left: 20px;
+	margin-top: 200px;
+
+}
+
+input
+{
+
+	width: 50%;
+	margin: auto;
+
+
+
+}
+
 
 }
