@@ -321,3 +321,14 @@ font-weight: bold;
 border-radius: 2px;
 
 }
+
+
+
+/*****************************SMARTPHONES******************************/
+
+@media screen and (min-width: 300px) and (max-width: 600px){
+
+.ok
+{
+	width: 150px
+}
