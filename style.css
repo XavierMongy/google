@@ -356,6 +356,7 @@ footer
 	position: absolute;
 	top: 320px;
 	left: 15px;
+	width: 140px;
 
 }
 
@@ -364,8 +365,8 @@ footer
 
 	position: absolute;
 	top: 320px;
-	left: 150px;
-	
+	left: 160px;
+	width: 140px;
 
 	
 }
