@@ -330,9 +330,9 @@ border-radius: 2px;
 
 .google
 {
-	width: 250px;
-	margin-left: 20px;
-	margin-top: 150px;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 120px;
 
 }
 
@@ -343,6 +343,11 @@ input
 	margin-left: 5%;
 
 
+}
+
+footer
+{
+	height: 90px;
 
 }
 
