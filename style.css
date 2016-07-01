@@ -262,7 +262,7 @@ color: #3B3B3B;
 
 .top a:hover
 {
-
+	float: left;
 	text-decoration: underline;
 }
 
@@ -353,7 +353,7 @@ footer
 .bouton a
 {
 	
-	margin-left: 15px;
+	margin-left: 5px;
 
 
 }
@@ -362,7 +362,7 @@ footer
 {
 
 	
-	margin-left: 60px;
+	margin-left: 15px;
 
 	
 }
