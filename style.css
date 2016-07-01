@@ -1,0 +1,323 @@
+img
+{
+
+	margin-left: 43%;
+	margin-top: 9%;
+
+
+}
+
+input
+{
+
+	margin-left: 33%;
+	margin-top: 1.5%;
+	width: 650px;
+	height: 40px;
+	border: 1px #DDDDDD solid;
+}
+
+
+/*class selectors**/
+.bouton a
+{
+
+	display: block;
+	width: 150px;
+	background-color: #f2f2f2;
+	height: 38px;
+	color: #7F7F7F;
+	border-radius: 2px;
+	float: left;
+	margin: 5px;
+	font-size: small;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	line-height: 38px;
+
+
+
+}
+
+.second a
+{
+
+
+	display: block;
+	width: 150px;
+	background-color: #f2f2f2;
+	height: 38px;
+	color: #7F7F7F;
+	border-radius: 2px;
+	float: left;
+	margin: 5px;
+	font-size: small;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 38px;
+	font-family: arial, sans-serif;
+
+
+}
+
+.bouton a:hover
+{
+
+	color: black;
+	background-color: #f2f2f2 ;
+	border: 1px rgba(142,142,142,0.5) solid;
+
+}
+
+
+
+
+.second a:hover
+{
+
+	color: black;
+	background-color: #f2f2f2 ;
+	border: 1px rgba(142,142,142,0.5) solid;
+
+}
+
+
+input:focus
+{
+
+	border: 1px rgba(0,0,255,0.5) solid;
+}
+
+input:hover
+{
+
+	border: 1px rgba(0,0,0,0.3) solid;
+
+}
+
+
+div
+{
+
+	margin-left: 42%;
+	margin-top: 29px;
+}
+
+a
+{
+
+	text-align: center
+	
+
+}
+
+
+
+footer
+{
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	background-color: #f2f2f2;
+	width: 100%;
+	height: 40px; 
+	border-top: 1px rgba(3,3,3,0.1) solid;
+}
+
+.pub a
+{
+position: absolute;
+top: 13px;
+left: 30px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+
+.pub a:hover
+{
+
+	text-decoration: underline;
+}
+
+.ent a
+{
+position: absolute;
+top: 13px;
+left: 110px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+}
+
+.ent a:hover
+{
+
+	text-decoration: underline;
+}
+
+.prop a
+{
+position: absolute;
+top: 13px;
+left: 195px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+
+.prop a:hover
+{
+
+	text-decoration: underline;
+}
+
+.conf a
+{
+position: absolute;
+top: 13px;
+right: 365px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+
+.conf a:hover
+{
+
+	text-decoration: underline;
+}
+
+.cond a
+{
+position: absolute;
+top: 13px;
+right: 275px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+.cond a:hover
+{
+
+	text-decoration: underline;
+}
+
+.par a
+{
+position: absolute;
+top: 13px;
+right: 175px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+.par a:hover
+{
+
+	text-decoration: underline;
+}
+
+.use a
+{
+position: absolute;
+top: 13px;
+right: 30px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #7A7A7A;
+
+}
+
+.use a:hover
+{
+
+	text-decoration: underline;
+}
+
+.top a
+{
+position: absolute;
+top: 25px;
+right: 243px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #3B3B3B;
+
+
+}
+
+.top a:hover
+{
+
+	text-decoration: underline;
+}
+
+.Img a
+{
+position: absolute;
+top: 25px;
+right: 185px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: #3B3B3B;
+
+
+}
+.Img a:hover
+{
+
+	text-decoration: underline;
+}
+
+
+.ok a
+{
+	position: absolute;
+	right: 150px;
+	top: 22px;
+	background-color: white;
+	opacity: 0.7;
+}
+
+.ok a:hover
+{
+
+	opacity: 1;
+}
+
+
+.connexion a
+{
+
+position: absolute;
+top: 18px;
+right: 40px;
+font-size: small;
+font-family: arial, sans-serif;
+text-decoration: none;
+color: white;
+width: 90px;
+background-color: #008BEE;
+height: 30px;
+line-height: 27px;
+text-align: center;
+font-weight: bold;
+border-radius: 2px;
+
+}
