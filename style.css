@@ -22,7 +22,7 @@ input
 .bouton a
 {
 
-	display: block;
+	
 	width: 150px;
 	background-color: #f2f2f2;
 	height: 38px;
@@ -44,7 +44,6 @@ input
 {
 
 
-	display: block;
 	width: 150px;
 	background-color: #f2f2f2;
 	height: 38px;
