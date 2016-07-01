@@ -354,7 +354,7 @@ footer
 .bouton a
 {
 	width: 100px;
-	float: left;
+	margin-left: 15px;
 
 
 }
@@ -363,7 +363,8 @@ footer
 {
 
 	width: 100px;
-	
+	margin-left: 60px;
+
 	
 }
 
