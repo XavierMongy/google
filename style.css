@@ -371,5 +371,10 @@ footer
 	
 }
 
+.con .par .use
+{
+	position: absolute;
+	bottom: 10px;
+}
 
 }
