@@ -235,3 +235,30 @@ footer
 
 
 }
+
+
+@media screen and (min-width: 1280px) and (max-width: 1600px) {
+
+
+.barre
+{
+	margin-left: 400px;
+
+}
+
+
+.google
+{
+	margin-left: 500px;
+}
+
+.bouton
+{
+	margin-left: 500px;
+}
+
+
+
+
+
+}
