@@ -383,7 +383,6 @@ footer
 
 	position: absolute;
 	bottom: 15px;
-	width: 150px;
 	right: 100px;
 }
 
@@ -391,7 +390,7 @@ footer
 {
 	position: absolute;
 	bottom: 15px;
-	width: 150px;
+
 	right: 150px;
 }
 
