@@ -170,7 +170,7 @@ footer
 
 .google
 {
-	width: 90%;
+	margin-left: 100px;
 }
 
 
@@ -179,7 +179,10 @@ footer
 	width: 90%;
 }
 
-
+footer
+{
+	width: 100%;
+}
 
 
 
