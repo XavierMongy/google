@@ -210,7 +210,7 @@ footer
 }
 
 
-@media screen and (min-width: 700px) and (max-width: 1024px) {
+@media screen and (min-width: 748px) and (max-width: 1024px) {
 
 
 
@@ -222,6 +222,18 @@ footer
 }
 
 
+.barre
+{ margin-left: 40%;
+
+
+
+}
+
+.bouton
+
+{
+	margin-left: 50%
+}
 
 
 
