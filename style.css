@@ -374,7 +374,15 @@ footer
 .use
 {
 	position: absolute;
-	bottom: 10px;
+	bottom: 15px;
+	width: 150px;
+}
+.par
+{
+
+	position: absolute;
+	bottom: 15px;
+	width: 150px;
 }
 
 }
