@@ -1,375 +1,163 @@
-img
+*
 {
-
-	margin-left: 43%;
-	margin-top: 9%;
-
+	font-family: arial, sans-serif;
+	font-size: small;
+	text-decoration: none;
 
 }
 
-input
-{
 
-	margin-left: 33%;
-	margin-top: 1.5%;
-	width: 650px;
+
+nav a
+{
+	margin-top: 10px;
+	float: right;
+	margin-right: 20px;
+	color: #666666;
+	
+}
+
+.google
+
+{
+	margin-top: 195px;
+	margin-left: 810px;
+}
+
+.barre 
+{
+	margin-left: 650px;
+	margin-top: 20px;
+	width: 600px;
+	height: 38px;
+	border-radius: 0px;
+	border: 1px #D9D9D9 solid;
+}
+
+.bouton
+{
+	margin-left: 780px;
+	margin-top: 30px;
 	height: 40px;
-	border: 1px #DDDDDD solid;
-}
-
-
-/*class selectors**/
-.bouton a
-{
-
-	
-	width: 150px;
-	background-color: #f2f2f2;
-	height: 38px;
-	color: #7F7F7F;
-	border-radius: 2px;
-	float: left;
-	margin: 5px;
-	font-size: small;
+	width: 160px;
+	color: #757575;
+	border-radius: 0px;
+	background-color: #F3F3F3;
+	border: 0px;
 	font-weight: bold;
-	text-decoration: none;
-	font-family: arial, sans-serif;
-	line-height: 38px;
-
-
 
 }
 
-.second a
+.chance
 {
-
-
-	width: 150px;
-	background-color: #f2f2f2;
-	height: 38px;
-	color: #7F7F7F;
-	border-radius: 2px;
-	float: left;
-	margin: 5px;
-	font-size: small;
+	margin-left: 5px;
+	height: 40px;
+	width: 160px;
+	color: #757575;
+	border-radius: 0px;
+	background-color: #F3F3F3;
+	border: 0px;
 	font-weight: bold;
-	text-decoration: none;
-	line-height: 38px;
-	font-family: arial, sans-serif;
-
-
 }
-
-.bouton a:hover
-{
-
-	color: black;
-	background-color: #f2f2f2 ;
-	border: 1px rgba(142,142,142,0.5) solid;
-
-}
-
-
-
-
-.second a:hover
-{
-
-	color: black;
-	background-color: #f2f2f2 ;
-	border: 1px rgba(142,142,142,0.5) solid;
-
-}
-
-
-input:focus
-{
-
-	border: 1px rgba(0,0,255,0.5) solid;
-}
-
-input:hover
-{
-
-	border: 1px rgba(0,0,0,0.3) solid;
-
-}
-
-
-div
-{
-
-	margin-left: 42%;
-	margin-top: 29px;
-}
-
-a
-{
-
-	text-align: center
-	
-
-}
-
-
 
 footer
 {
 	position: absolute;
-	left: 0px;
 	bottom: 0px;
-	background-color: #f2f2f2;
+	left: 0px;
+	background-color: #F2F2F2;
 	width: 100%;
-	height: 40px; 
-	border-top: 1px rgba(3,3,3,0.1) solid;
+	height: 45px;
 }
+
+
+
 
 .pub a
 {
-position: absolute;
-top: 13px;
-left: 30px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-
+	float: left;
+	margin-left: 40px;
+	color: #666666;
 }
 
-.pub a:hover
-{
-
-	text-decoration: underline;
-}
-
-.ent a
-{
-position: absolute;
-top: 13px;
-left: 110px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-}
-
-.ent a:hover
-{
-
-	text-decoration: underline;
-}
-
-.prop a
-{
-position: absolute;
-top: 13px;
-left: 195px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-
-}
-
-.prop a:hover
-{
-
-	text-decoration: underline;
-}
 
 .conf a
 {
-position: absolute;
-top: 13px;
-right: 365px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
+	float: right;
+	margin-right: 40px;
+	color: #666666;
 
-}
-
-.conf a:hover
-{
-
-	text-decoration: underline;
-}
-
-.cond a
-{
-position: absolute;
-top: 13px;
-right: 275px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-
-}
-.cond a:hover
-{
-
-	text-decoration: underline;
-}
-
-.par a
-{
-position: absolute;
-top: 13px;
-right: 175px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-
-}
-.par a:hover
-{
-
-	text-decoration: underline;
-}
-
-.use a
-{
-position: absolute;
-top: 13px;
-right: 30px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #7A7A7A;
-
-}
-
-.use a:hover
-{
-
-	text-decoration: underline;
-}
-
-.top a
-{
-position: absolute;
-top: 25px;
-right: 243px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #3B3B3B;
-
-
-}
-
-.top a:hover
-{
-	float: left;
-	text-decoration: underline;
-}
-
-.Img a
-{
-position: absolute;
-top: 25px;
-right: 185px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: #3B3B3B;
-
-
-}
-.Img a:hover
-{
-
-	text-decoration: underline;
+	
 }
 
 
-.ok a
+
+.connect
 {
-	position: absolute;
-	right: 150px;
-	top: 22px;
-	background-color: white;
+	margin-top: 2px;
+	float: right;
+	margin-right: 30px;
+		height: 30px;
+	width: 90px;
+	color: white;
+	border-radius: 0px;
+	background-color: #4485F5;
+	border: 0px;
+	font-weight: bold;
+}
+
+.app
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
 	opacity: 0.7;
 }
 
-.ok a:hover
+
+
+
+ .app:hover
 {
 
 	opacity: 1;
 }
 
 
-.connexion a
-{
 
-position: absolute;
-top: 18px;
-right: 40px;
-font-size: small;
-font-family: arial, sans-serif;
-text-decoration: none;
-color: white;
-width: 90px;
-background-color: #008BEE;
-height: 30px;
-line-height: 27px;
-text-align: center;
-font-weight: bold;
-border-radius: 2px;
+
+
+
+.bouton:hover
+{
+	border: 1px grey solid;
+	color: black;
+}
+
+.chance:hover
+{
+	border: 1px grey solid;
+	color: black;
+}
+
+.barre:hover
+{
+	border: 1px rgba(0,0,0,0.3) solid;
 
 }
 
+.barre:focus
 
-
-/*****************************SMARTPHONES******************************/
-
-@media screen and (min-width: 300px) and (max-width: 600px){
-
-.google
 {
-	width: 80%;
-	margin-left: 10%;
-	margin-top: 120px;
-
+	border: 1px #4D90FE solid;
 }
 
-input
+.conf a:hover
 {
-
-	width: 90%;
-	margin-left: 5%;
-
-
+	text-decoration: underline;
 }
 
-footer
+.pub a:hover
 {
-	height: 90px;
-
-}
-
-.bouton a
-{
-	
-	position: absolute;
-	top: 320px;
-	left: 35px;
-	width: 140px;
-
-}
-
-.second a
-{
-
-	position: absolute;
-	top: 320px;
-	left: 190px;
-	width: 140px;
-
-	
-}
-
-
+	text-decoration: underline;
 }
