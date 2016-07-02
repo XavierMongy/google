@@ -188,12 +188,23 @@ footer
 
 
 
+.conf
+{
+	display: none;
+
+}
+
+.pub
+{
+	display: none;
+}
 
 
 
-
-
-
+.bouton
+{
+	margin-left: 10px;
+}
 
 
 
