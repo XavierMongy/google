@@ -376,6 +376,7 @@ footer
 	position: absolute;
 	bottom: 15px;
 	width: 150px;
+	right: 5px
 }
 .par
 {
@@ -383,6 +384,15 @@ footer
 	position: absolute;
 	bottom: 15px;
 	width: 150px;
+	right: 100px;
+}
+
+.cond
+{
+	position: absolute;
+	bottom: 15px;
+	width: 150px;
+	right: 200px;
 }
 
 }
