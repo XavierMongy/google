@@ -170,13 +170,14 @@ footer
 
 .google
 {
-	margin-left: 100px;
+	margin-left: 10px;
 }
 
 
 .barre
 {
 	margin-left: 50px;
+	width: 300px;
 }
 
 footer
