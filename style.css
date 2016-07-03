@@ -197,6 +197,11 @@ section
 {
 	width: 300px;
 }
+
+.barre
+{
+	width: 50%;
+}
 .conf
 {
 	display: none;
