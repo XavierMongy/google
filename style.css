@@ -21,12 +21,14 @@ nav a
 
 {
 	margin-top: 195px;
-	margin-left: 810px;
+	margin-left: 25%;
+	
+
 }
 
 .barre 
 {
-	margin-left: 650px;
+	
 	margin-top: 20px;
 	width: 600px;
 	height: 38px;
@@ -36,7 +38,8 @@ nav a
 
 .bouton
 {
-	margin-left: 780px;
+	
+	margin-left: 25%;
 	margin-top: 30px;
 	height: 40px;
 	width: 160px;
@@ -162,103 +165,12 @@ footer
 	text-decoration: underline;
 }
 
+section
+{
+	width: 600px;
 
+	margin-right: auto;
+	margin-left: auto;
+}
 /************************************SMARTPHONES******************************/
 
-@media screen and (min-width: 300px) and (max-width: 600px){
-
-
-.google
-{
-	margin-top: 120px;
-	margin-left: 35px;
-}
-
-
-.barre
-{
-	margin-left: 20px;
-	width: 300px;
-}
-
-footer
-{
-	width: 100%;
-}
-
-
-
-.conf
-{
-	display: none;
-
-}
-
-.pub
-{
-	display: none;
-}
-
-
-
-.bouton
-{
-	margin-left: 10px;
-}
-
-
-}
-
-
-@media screen and (min-width: 748px) and (max-width: 1024px) {
-
-
-
-
-.barre
-{ margin-left: 250px;
-
-
-}
-
-.google
-{
-	margin-left: 400px;
-}
-
-
-.bouton
-{
-	margin-left: 400px;
-}
-
-
-
-}
-
-
-@media screen and (min-width: 1280px) and (max-width: 1600px) {
-
-
-.barre
-{
-	margin-left: 400px;
-
-}
-
-
-.google
-{
-	margin-left: 500px;
-}
-
-.bouton
-{
-	margin-left: 500px;
-}
-
-
-
-
-
-}
