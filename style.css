@@ -191,6 +191,7 @@ footer
 .bouton
 {
 	margin-left: 2%;
+	width: 60%
 }
 
 section
@@ -200,7 +201,7 @@ section
 
 .barre
 {
-	width: 90%;
+	width: 100%;
 }
 .conf
 {
