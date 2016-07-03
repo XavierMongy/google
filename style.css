@@ -188,9 +188,13 @@ section
 {
 	width: 50%;
 	margin-left: 5px
-	
+
 }
 
+.barre
+{
+	width: 20%;
+}
 
 .conf
 {
