@@ -193,9 +193,13 @@ footer
 .barre
 {
 	margin-left: 5px;
-	width: 70%;
+	width: 30%;
 }
 
+.bouton
+{
+	margin-left: 5px;
+}
 
 .conf
 {
