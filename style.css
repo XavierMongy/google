@@ -177,22 +177,17 @@ section
 @media screen and (min-width: 300px) and (max-width: 600px){
 
 
-.google
-{
-	width: 50%
-}
 
-
-.barre
-{
-	width: 50%
-}
 
 footer
 {
 	width: 100%;
 }
 
+section
+{
+	width: 90%;
+}
 
 
 .conf
@@ -208,11 +203,4 @@ footer
 
 
 
-.bouton
-{
-	width: 50%;
-}
-
-
-}
 
