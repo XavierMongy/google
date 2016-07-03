@@ -29,7 +29,7 @@ nav a
 .barre 
 {
 	
-	margin-top: 30px;
+	margin-top: 20px;
 	width: 600px;
 	height: 38px;
 	border-radius: 0px;
@@ -194,6 +194,7 @@ footer
 .barre
 {
 	
+	margin-top: 30px;
 	margin-left: 5px;
 	width: 50%;
 }
