@@ -203,9 +203,14 @@ section
 .bouton
 {
 	margin-left: 5px;
+	width: 120px
 	
 }
 
+.chance
+{
+	width: 120px;
+}
 
 .conf
 {
