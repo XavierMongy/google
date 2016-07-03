@@ -193,7 +193,10 @@ footer
 	margin-left: 2%;
 }
 
-
+section
+{
+	width: 300px;
+}
 .conf
 {
 	display: none;
