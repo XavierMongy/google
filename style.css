@@ -202,11 +202,12 @@ section
 }
 .bouton
 {
-	width: 100px
+	margin-left: 15px;
+	width: 110px
 }
 .chance
 {
-	width: 100px;
+	width: 110px;
 }
 
 .conf
