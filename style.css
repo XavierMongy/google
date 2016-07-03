@@ -184,11 +184,15 @@ footer
 	width: 100%;
 }
 
-section
+.google
 {
-	width: 50%;
-	margin-left: 5px
+	margin-left: 5px;
 
+}
+
+.barre
+{
+	margin-left: 5px;
 }
 
 
