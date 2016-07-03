@@ -200,9 +200,13 @@ section
 {
 	width: 100%;
 }
-.bouton .chance
+.bouton
 {
-	width: 20%;
+	width: 20px
+}
+.chance
+{
+	width: 20px;
 }
 
 .conf
