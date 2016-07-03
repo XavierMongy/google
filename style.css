@@ -174,3 +174,45 @@ section
 }
 /************************************SMARTPHONES******************************/
 
+@media screen and (min-width: 300px) and (max-width: 600px){
+
+
+.google
+{
+	width: 90%
+}
+
+
+.barre
+{
+	width: 90%
+}
+
+footer
+{
+	width: 100%;
+}
+
+
+
+.conf
+{
+	display: none;
+
+}
+
+.pub
+{
+	display: none;
+}
+
+
+
+.bouton
+{
+	width: 90%;
+}
+
+
+}
+
